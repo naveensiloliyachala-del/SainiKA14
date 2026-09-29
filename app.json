@@ -12,19 +12,19 @@
     "stack": "heroku-24",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "29020892",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "description": "15bfac43cfbeb3993c942ce2f11ec3f8",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+            "description": "8925542630:AAH2hs76XAIltAl4iNX6FMntFORcEfylT8Q",
             "required": true
         },
         "OWNER_ID": {
-            "description": "𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
+            "description": "7068000043",
             "required": true
         }
     },
