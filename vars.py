@@ -3,9 +3,9 @@
 import os
 from pymongo import MongoClient
 
-API_ID    = os.environ.get("API_ID", "")
-API_HASH  = os.environ.get("API_HASH", "")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+API_ID    = os.environ.get("API_ID", "29020892")
+API_HASH  = os.environ.get("API_HASH", "15bfac43cfbeb3993c942ce2f11ec3f8")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8925542630:AAH2hs76XAIltAl4iNX6FMntFORcEfylT8Q") 
 
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
